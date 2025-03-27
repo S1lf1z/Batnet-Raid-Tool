@@ -1,0 +1,10 @@
+/proyecto
+│
+├── /cogs
+│   ├── __init__.py
+│   ├── raid_commands.py
+│   ├── webhook_commands.py
+│   └── server_commands.py
+│
+├── main.py
+└── requirements.txt
