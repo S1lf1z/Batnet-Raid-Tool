@@ -3,18 +3,11 @@ from discord.ext import commands
 import os
 
 def main_menu():
-    print("""\
-______          _             __   __          _     _ 
-| ___ \        | |            \ \ / /         (_)   | |
-| |_/ / __ ___ | |_ ___  _ __  \ V / _ __ __ _ _  __| |
-|  __/ '__/ _ \| __/ _ \| '_ \ /   \| '__/ _` | |/ _` |
-| |  | | | (_) | || (_) | | | / /^\ \ | | (_| | | (_| |
-\_|  |_|  \___/ \__\___/|_| |_\/   \/_|  \__,_|_|\__,_|
+    print("""
 
-              made by 10txn (in beta)
+              made by Self$-was-here (in beta)
 """)
 
-    print("\nProtonXraid menu:")
     print("1. Raid with Discord bot")
     print("2. Spam Webhook")
     print("3. Delete Webhook")
